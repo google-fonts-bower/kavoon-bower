@@ -1,0 +1,17 @@
+{
+    "name": "kavoon-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Viktoriya Grabowska"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/kavoon-bower.git"
+    },
+    "description": "Kavoon font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
